@@ -1,0 +1,56 @@
+{
+  "title": "Real-time tracking of LASV evolution",
+  "maintainers": [
+    {"name": "Richard Daodu, Denise Kühnert", "url": ""}
+  ],
+  "build_url": "",  
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "Host",
+      "title": "Host",
+      "type": "categorical"
+    },
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "author",
+      "title": "Author",
+      "type": "categorical"
+    },
+    {
+      "key": "Geo_Location",
+      "title": "Geo_Location",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "country",
+    "region"
+  ],
+  "display_defaults": {
+    "map_triplicate": true
+  },
+  "filters": [
+    "country",
+    "region",
+    "author"
+  ]
+}
