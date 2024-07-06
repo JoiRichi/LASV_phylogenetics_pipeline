@@ -1,0 +1,12 @@
+files:
+    alignment: "config/final_passed_sequences_manual_curated.fasta"
+    metadata: "config/final_passed_metadata.csv"
+    reference: "config/gly_ref_LASV.gb"
+    auspice_config: "config/auspice_config.json"
+
+refine:
+    coalescent: "opt"
+    date_inference: "marginal"
+    clock_filter_iqd: 4
+ancestral:
+    inference: "joint"
