@@ -51,4 +51,3 @@ The pipeline config folder contains the input files for this pipeline. Learn how
 For further details, please refer to the respective notebooks and repositories linked above.
 
 Special thanks to the [Nextstrain](https://github.com/nextstrain) main developers for providing backbone open source code for this pipeline and guidance in its modification to work with Lassa Virus.
-
