@@ -19,14 +19,12 @@ This repository contains the Nextstrain pipeline for phylogenetic analysis of La
 ## Running the Pipeline
 This pipeline relies heavily on Nextstrain. Please install Nextstrain first by following the [installation guide](https://docs.nextstrain.org/projects/cli/en/stable/installation/) and ensure the Nextstrain command is available in your terminal.
 
-Clone this repository using (or simply download it as a zip and unzip.):
+Clone this repository using (or simply download it as a zipped file and unzip.):
 ```sh
-gh repo clone JoiRichi/LASV_phylogenetics_pipeline
+git clone https://github.com/JoiRichi/LASV_phylogenetics_pipeline.git
 ```
 
-```sh
-gh repo clone JoiRichi/LASV_phylogenetics_pipeline
-```
+
 Enter the Nextstrain shell in the root directory of the pipeline. Note: you must enter the Nextstrain shell each time you want to use the pipeline.
 
 ```sh
@@ -44,11 +42,8 @@ snakemake --cores 5  # you can change the number of cores
 ```
 
 
-Upon completion, go to the pipeline Auspice folder and view the final JSON file using [Auspice](https://auspice.us/). Drag and drop the file.
+Upon completion, go to the pipeline 'auspice' folder and view the final JSON file using [Auspice](https://auspice.us/). Drag and drop the file.
 
-
-
-Upon completion, go to the Auspice folder and view the final JSON file using [Auspice](https://auspice.us/).
 
 ## Customization
 The pipeline config folder contains the input files for this pipeline. Learn how the data was preprocessed here: [LASV_ML_Manuscript_Data](https://github.com/JoiRichi/LASV_ML_manuscript_data). It is possible to use your own custom sequences using the same process.
