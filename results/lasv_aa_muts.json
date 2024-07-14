@@ -30,6 +30,7 @@
         "LASVsSgp2": [
           "N90S",
           "K125R",
+          "T132A",
           "Q218H",
           "R324K",
           "A328T"
@@ -241,13 +242,15 @@
       "aa_muts": {
         "LASVsSgp2": [
           "M96R",
-          "R209N",
+          "E174G",
+          "G209N",
           "E228D",
           "I252V",
           "H374N",
           "T376A",
           "V388I",
-          "Q406E"
+          "Q406E",
+          "P462S"
         ]
       }
     },
@@ -511,7 +514,6 @@
           "V174G",
           "R207H",
           "S234T",
-          "K272N",
           "K327R",
           "K379R",
           "V450I",
@@ -1378,7 +1380,6 @@
         "LASVsSgp2": [
           "S77N",
           "I183V",
-          "I420M",
           "V458I",
           "I459M"
         ]
@@ -1429,8 +1430,8 @@
       "aa_muts": {
         "LASVsSgp2": [
           "Q9H",
-          "K207R",
-          "M420I"
+          "V174I",
+          "K207R"
         ]
       }
     },
@@ -1465,7 +1466,6 @@
     "KM822095": {
       "aa_muts": {
         "LASVsSgp2": [
-          "I5V",
           "T70A",
           "A76S",
           "N114H",
@@ -1689,7 +1689,6 @@
     "KT992425": {
       "aa_muts": {
         "LASVsSgp2": [
-          "I35L",
           "I43V",
           "V47I",
           "T59A",
@@ -1698,14 +1697,13 @@
           "N114S",
           "S138T",
           "V164I",
-          "K178Q",
+          "N178Q",
           "K207R",
           "G208R",
           "N209G",
           "M214I",
           "T215S",
           "E228D",
-          "L244F",
           "L245V",
           "T274M",
           "E289D",
@@ -1714,7 +1712,6 @@
           "I350M",
           "Y369F",
           "H374N",
-          "S376T",
           "S444T"
         ]
       }
@@ -1796,8 +1793,7 @@
     "LC387486": {
       "aa_muts": {
         "LASVsSgp2": [
-          "S199R",
-          "R384K"
+          "S199R"
         ]
       }
     },
@@ -1838,8 +1834,7 @@
           "V47I",
           "T60S",
           "N178S",
-          "I221V",
-          "A376T"
+          "I221V"
         ]
       }
     },
@@ -1968,6 +1963,7 @@
       "aa_muts": {
         "LASVsSgp2": [
           "T58S",
+          "T132A",
           "F479L"
         ]
       }
@@ -2089,6 +2085,7 @@
           "T261A",
           "E287A",
           "E289D",
+          "K384R",
           "L442M"
         ]
       }
@@ -2109,7 +2106,6 @@
           "I239M",
           "K324R",
           "M332L",
-          "R384K",
           "V388I",
           "G429S",
           "I458V"
@@ -2124,7 +2120,6 @@
     "MH053468": {
       "aa_muts": {
         "LASVsSgp2": [
-          "A132T",
           "K384R",
           "R488K"
         ]
@@ -2182,9 +2177,7 @@
           "T110V",
           "K116R",
           "K126R",
-          "A132T",
           "S171G",
-          "G174V",
           "R178K",
           "K272R",
           "S389T",
@@ -2351,8 +2344,8 @@
     "MH053527": {
       "aa_muts": {
         "LASVsSgp2": [
-          "I174V",
-          "I221V"
+          "I221V",
+          "K324R"
         ]
       }
     },
@@ -2386,7 +2379,8 @@
           "T328A",
           "S333N",
           "K379R",
-          "V450I"
+          "V450I",
+          "I459V"
         ]
       }
     },
@@ -2492,9 +2486,9 @@
           "L43V",
           "A132S",
           "T171S",
+          "N178K",
           "N209G",
           "E273D",
-          "V298I",
           "K320R",
           "V376I"
         ]
@@ -2505,7 +2499,8 @@
         "LASVsSgp2": [
           "A171T",
           "A328S",
-          "K368R"
+          "K368R",
+          "K384R"
         ]
       }
     },
@@ -2681,7 +2676,6 @@
     "MH215281": {
       "aa_muts": {
         "LASVsSgp2": [
-          "V4I",
           "T178R",
           "T225I",
           "V450I"
@@ -3420,7 +3414,6 @@
     "MH887863": {
       "aa_muts": {
         "LASVsSgp2": [
-          "I5V",
           "T171S",
           "T226S"
         ]
@@ -3623,7 +3616,6 @@
         "LASVsSgp2": [
           "V11I",
           "A25T",
-          "I174V",
           "N178K",
           "S209N",
           "V458I"
@@ -3745,6 +3737,7 @@
       "aa_muts": {
         "LASVsSgp2": [
           "S65G",
+          "V137I",
           "K178N",
           "V450I"
         ]
@@ -3778,7 +3771,8 @@
           "S65G",
           "T110I",
           "F117Y",
-          "S216D"
+          "V137I",
+          "N216D"
         ]
       }
     },
@@ -3862,7 +3856,6 @@
       "aa_muts": {
         "LASVsSgp2": [
           "I47V",
-          "R384K",
           "I443M"
         ]
       }
@@ -3897,6 +3890,7 @@
           "V5I",
           "H13Q",
           "I31V",
+          "L35I",
           "T48S",
           "-60S",
           "N74D",
@@ -3906,13 +3900,13 @@
           "Y172N",
           "G174E",
           "D175G",
-          "K178N",
           "V187I",
           "Y219F",
+          "F244L",
           "T281S",
           "V298I",
           "A328T",
-          "S376L",
+          "T376L",
           "R379K",
           "D421E",
           "R488K"
@@ -3969,8 +3963,10 @@
     "MK107935": {
       "aa_muts": {
         "LASVsSgp2": [
-          "K126R",
-          "T171S"
+          "V137I",
+          "T171S",
+          "G209S",
+          "S486P"
         ]
       }
     },
@@ -3999,7 +3995,10 @@
           "T59M",
           "T87S",
           "N114D",
+          "T132A",
           "Y172F",
+          "V174G",
+          "S178R",
           "R248K",
           "T376V",
           "I474V"
@@ -4009,9 +4008,7 @@
     "MK107940": {
       "aa_muts": {
         "LASVsSgp2": [
-          "A132T",
           "Y150F",
-          "G174V",
           "R178S",
           "R488K"
         ]
@@ -4022,8 +4019,7 @@
         "LASVsSgp2": [
           "I47V",
           "K126R",
-          "A132T",
-          "S376A"
+          "T376A"
         ]
       }
     },
@@ -4114,8 +4110,6 @@
           "I35M",
           "L43I",
           "T59L",
-          "A132T",
-          "G174V",
           "R178Q",
           "K272N"
         ]
@@ -4142,15 +4136,16 @@
       "aa_muts": {
         "LASVsSgp2": [
           "A76K",
+          "N90S",
           "N127D",
+          "T171A",
           "V174I",
           "N178K",
-          "N209S",
-          "A274T",
           "K324E",
           "R384K",
+          "V388I",
           "V450I",
-          "V459T"
+          "I459T"
         ]
       }
     },
@@ -4239,6 +4234,7 @@
       "aa_muts": {
         "LASVsSgp2": [
           "M59T",
+          "T90N",
           "K178R",
           "E396D"
         ]
@@ -4601,7 +4597,6 @@
           "K207R",
           "T328A",
           "S389T",
-          "K451R",
           "T459I",
           "K481R"
         ]
@@ -4846,8 +4841,7 @@
         "LASVsSgp2": [
           "V47L",
           "A76G",
-          "T171S",
-          "M420I"
+          "T171S"
         ]
       }
     },
@@ -5027,6 +5021,7 @@
           "N178K",
           "R207H",
           "G209R",
+          "T376A",
           "K384R",
           "M420I",
           "V450I"
@@ -5087,7 +5082,6 @@
           "V14I",
           "I18V",
           "T61I",
-          "N90T",
           "G174V",
           "A274T",
           "K320R"
@@ -5153,11 +5147,6 @@
     },
     "NODE_0000007": {
       "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000008": {
-      "aa_muts": {
         "LASVsSgp2": [
           "N178D",
           "I239V",
@@ -5166,10 +5155,20 @@
         ]
       }
     },
-    "NODE_0000009": {
+    "NODE_0000008": {
       "aa_muts": {},
       "aa_sequences": {
-        "LASVsSgp2": "MGQIVTFFQEVPHVIEEVMNIVLIALSILAILKGMYNVATCGIIGLVTFLFLCGRSCST-IYKGGYELQTLELNMETLNMTMPLSCTKNNSHHYIRVGNETGLELTLTNTSIINHKFCNLSDAHKKNLYDHALMSIISTFHLSIPNFNQYEAMSCDFNGGKISVQYNLSHTYAGDAAKHCGTVANGVLQTFMRMAWGGSYIALDSGKGNWDCIMTSYQYLIIQNTTWEDHCQFSRPSPIGYLGLLSQRTRDIYISRRLLGTFTWTLSDSEGNETPGGYCLTRWMLIEAELKCFGNTAVAKCNEKHDEEFCDMLRLFDFNKQAIQRLKAEAQMSIQLINKAVNALINDQLIMKNHLRDIMGIPYCNYSKYWYLNHTSTGRTSLPRCWLVSNGSYLNETHFSDDIEQQADNMITEMLQKEYMDRQGKTPLGLVDLFVFSTSFYLISIFLHLVKIPTHRHIVGKPCPKPHRLNHMGICSCGLYKQPGVPVRWKR"
+        "LASVsSgp2": "MGQIVTFFQEVPHVIEEVMNIVLIALSLLAILKGLYNVATCGLIGLVTFLLLCGRSCST-IYKGVYELQTLELNMETLNMTMPLSCTKNNSHHYIRVGNETGLELTLTNTSIINHKFCNLSDAHKKNLYDHALMSIISTFHLSIPNFNQYEAMSCDFNGGKISVQYNLSHTYAVDAANHCGTVANGVLQTFMRMAWGGSYIALDSGKGNWDCIMTSYQYLIIQNTTWEDHCQFSRPSPIGYLGLLSQRTRDIYISRRLLGTFTWTLSDSEGNETPGGYCLTRWMLIEAELKCFGNTAVAKCNEKHDEEFCDMLRLFDFNKQAIQRLKAEAQMSIQLINKAVNALINDQLIMKNHLRDIMGIPYCNYSKYWYLNHTTTGRTSLPKCWLVSNGSYLNETHFSDDIEQQADNMITEMLQKEYMDRQGKTPLGLVDLFVFSTSFYLISIFLHLVKIPTHRHIVGKPCPKPHRLNHMGICSCGLYKQPGVPVRWKR"
+      }
+    },
+    "NODE_0000009": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "LASVsSgp2": []
       }
     },
     "NODE_0000012": {
@@ -5189,10 +5188,12 @@
     },
     "NODE_0000014": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "I221V"
+        ]
       }
     },
-    "NODE_0000015": {
+    "NODE_0000016": {
       "aa_muts": {
         "LASVsSgp2": []
       }
@@ -5204,22 +5205,17 @@
     },
     "NODE_0000019": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "K368R"
+        ]
       }
     },
     "NODE_0000020": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "I221V"
-        ]
-      }
-    },
-    "NODE_0000022": {
-      "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000024": {
+    "NODE_0000021": {
       "aa_muts": {
         "LASVsSgp2": []
       }
@@ -5236,9 +5232,7 @@
     },
     "NODE_0000027": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "K368R"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000028": {
@@ -5288,7 +5282,7 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000040": {
+    "NODE_0000039": {
       "aa_muts": {
         "LASVsSgp2": []
       }
@@ -5313,38 +5307,43 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000045": {
+    "NODE_0000047": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000049": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000051": {
+    "NODE_0000048": {
       "aa_muts": {
         "LASVsSgp2": [
           "T171S"
         ]
       }
     },
-    "NODE_0000053": {
+    "NODE_0000051": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000052": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
     "NODE_0000054": {
       "aa_muts": {
+        "LASVsSgp2": [
+          "A184T"
+        ]
+      }
+    },
+    "NODE_0000055": {
+      "aa_muts": {
         "LASVsSgp2": []
       }
     },
     "NODE_0000056": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "A184T"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000057": {
@@ -5354,33 +5353,28 @@
     },
     "NODE_0000058": {
       "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000059": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000060": {
-      "aa_muts": {
         "LASVsSgp2": [
           "V458I"
         ]
       }
     },
-    "NODE_0000061": {
+    "NODE_0000059": {
       "aa_muts": {
         "LASVsSgp2": [
           "F44L"
         ]
       }
     },
-    "NODE_0000063": {
+    "NODE_0000061": {
       "aa_muts": {
         "LASVsSgp2": [
           "T171A"
         ]
+      }
+    },
+    "NODE_0000063": {
+      "aa_muts": {
+        "LASVsSgp2": []
       }
     },
     "NODE_0000064": {
@@ -5541,7 +5535,14 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000093": {
+    "NODE_0000094": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "T171A"
+        ]
+      }
+    },
+    "NODE_0000095": {
       "aa_muts": {
         "LASVsSgp2": [
           "V376I",
@@ -5550,7 +5551,7 @@
         ]
       }
     },
-    "NODE_0000094": {
+    "NODE_0000096": {
       "aa_muts": {
         "LASVsSgp2": [
           "M420I",
@@ -5558,7 +5559,7 @@
         ]
       }
     },
-    "NODE_0000095": {
+    "NODE_0000097": {
       "aa_muts": {
         "LASVsSgp2": [
           "I35V",
@@ -5570,22 +5571,15 @@
         ]
       }
     },
-    "NODE_0000096": {
+    "NODE_0000098": {
       "aa_muts": {
         "LASVsSgp2": []
-      }
-    },
-    "NODE_0000097": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "V164I"
-        ]
       }
     },
     "NODE_0000099": {
       "aa_muts": {
         "LASVsSgp2": [
-          "T171A"
+          "V164I"
         ]
       }
     },
@@ -5596,25 +5590,15 @@
     },
     "NODE_0000101": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "V458I"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000102": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "L28I",
-          "N114S"
-        ]
-      }
-    },
-    "NODE_0000105": {
-      "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000106": {
+    "NODE_0000103": {
       "aa_muts": {
         "LASVsSgp2": [
           "A76T",
@@ -5625,27 +5609,22 @@
         ]
       }
     },
+    "NODE_0000104": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000105": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000106": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
     "NODE_0000107": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000108": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000109": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000110": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000111": {
       "aa_muts": {
         "LASVsSgp2": [
           "I35V",
@@ -5659,12 +5638,12 @@
         ]
       }
     },
-    "NODE_0000112": {
+    "NODE_0000108": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000113": {
+    "NODE_0000109": {
       "aa_muts": {
         "LASVsSgp2": [
           "I137V",
@@ -5672,6 +5651,26 @@
           "K207R",
           "T328A"
         ]
+      }
+    },
+    "NODE_0000110": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000111": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000112": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000113": {
+      "aa_muts": {
+        "LASVsSgp2": []
       }
     },
     "NODE_0000114": {
@@ -5689,11 +5688,6 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000117": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
     "NODE_0000118": {
       "aa_muts": {
         "LASVsSgp2": []
@@ -5704,14 +5698,18 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000120": {
+    "NODE_0000121": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "V485M"
+        ]
       }
     },
     "NODE_0000122": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "M485I"
+        ]
       }
     },
     "NODE_0000123": {
@@ -5719,28 +5717,38 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000125": {
+    "NODE_0000124": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "V485M"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000126": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "M485I"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000127": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "M420I"
+        ]
       }
     },
     "NODE_0000128": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "S209N",
+          "R324S"
+        ]
+      }
+    },
+    "NODE_0000129": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "L414M",
+          "V458I",
+          "I459T"
+        ]
       }
     },
     "NODE_0000130": {
@@ -5750,39 +5758,10 @@
     },
     "NODE_0000131": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "M420I"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000132": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "S209N",
-          "R324S"
-        ]
-      }
-    },
-    "NODE_0000133": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "L414M",
-          "V458I",
-          "I459T"
-        ]
-      }
-    },
-    "NODE_0000134": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000135": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000136": {
       "aa_muts": {
         "LASVsSgp2": [
           "I5V",
@@ -5798,6 +5777,29 @@
         ]
       }
     },
+    "NODE_0000133": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000134": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "K379R",
+          "I420M"
+        ]
+      }
+    },
+    "NODE_0000135": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000136": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
     "NODE_0000137": {
       "aa_muts": {
         "LASVsSgp2": []
@@ -5806,8 +5808,7 @@
     "NODE_0000138": {
       "aa_muts": {
         "LASVsSgp2": [
-          "K379R",
-          "I420M"
+          "V174I"
         ]
       }
     },
@@ -5824,12 +5825,52 @@
     "NODE_0000141": {
       "aa_muts": {
         "LASVsSgp2": [
+          "L414M"
+        ]
+      }
+    },
+    "NODE_0000142": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000143": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000144": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000145": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000146": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "V174I",
+          "K451R"
+        ]
+      }
+    },
+    "NODE_0000147": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000148": {
+      "aa_muts": {
+        "LASVsSgp2": [
           "S77N",
           "H471R"
         ]
       }
     },
-    "NODE_0000142": {
+    "NODE_0000149": {
       "aa_muts": {
         "LASVsSgp2": [
           "A25T",
@@ -5844,14 +5885,14 @@
         ]
       }
     },
-    "NODE_0000143": {
+    "NODE_0000150": {
       "aa_muts": {
         "LASVsSgp2": [
           "N178T"
         ]
       }
     },
-    "NODE_0000144": {
+    "NODE_0000151": {
       "aa_muts": {
         "LASVsSgp2": [
           "T59M",
@@ -5859,54 +5900,12 @@
         ]
       }
     },
-    "NODE_0000145": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000146": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000148": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000149": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "I459K",
-          "P486S"
-        ]
-      }
-    },
-    "NODE_0000150": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000151": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
     "NODE_0000152": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "V174I"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000153": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "K451R"
-        ]
-      }
-    },
-    "NODE_0000154": {
       "aa_muts": {
         "LASVsSgp2": []
       }
@@ -5918,7 +5917,10 @@
     },
     "NODE_0000156": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "I459K",
+          "P486S"
+        ]
       }
     },
     "NODE_0000157": {
@@ -5933,42 +5935,10 @@
     },
     "NODE_0000159": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "L414M"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000160": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000161": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000162": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000163": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000164": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000165": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000166": {
       "aa_muts": {
         "LASVsSgp2": [
           "E287A",
@@ -5979,14 +5949,14 @@
         ]
       }
     },
-    "NODE_0000167": {
+    "NODE_0000161": {
       "aa_muts": {
         "LASVsSgp2": [
           "T171A"
         ]
       }
     },
-    "NODE_0000168": {
+    "NODE_0000162": {
       "aa_muts": {
         "LASVsSgp2": [
           "T110M",
@@ -5995,15 +5965,49 @@
         ]
       }
     },
-    "NODE_0000169": {
+    "NODE_0000164": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "M420I"
+        ]
+      }
+    },
+    "NODE_0000165": {
       "aa_muts": {
         "LASVsSgp2": []
+      }
+    },
+    "NODE_0000166": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000167": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000168": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "A132T",
+          "T171A",
+          "I459V"
+        ]
+      }
+    },
+    "NODE_0000169": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "V38I",
+          "S209N"
+        ]
       }
     },
     "NODE_0000170": {
       "aa_muts": {
         "LASVsSgp2": [
-          "M420I"
+          "M96R"
         ]
       }
     },
@@ -6015,66 +6019,37 @@
     "NODE_0000172": {
       "aa_muts": {
         "LASVsSgp2": [
-          "A132T",
-          "T171A",
-          "I459V"
+          "S77N"
         ]
       }
     },
     "NODE_0000173": {
       "aa_muts": {
         "LASVsSgp2": [
-          "V38I",
-          "S209N"
+          "R96M"
         ]
       }
     },
     "NODE_0000174": {
       "aa_muts": {
         "LASVsSgp2": [
-          "M96R"
-        ]
-      }
-    },
-    "NODE_0000175": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000176": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "S77N"
-        ]
-      }
-    },
-    "NODE_0000177": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "R96M"
-        ]
-      }
-    },
-    "NODE_0000178": {
-      "aa_muts": {
-        "LASVsSgp2": [
           "T171A"
         ]
       }
     },
-    "NODE_0000179": {
+    "NODE_0000175": {
       "aa_muts": {
         "LASVsSgp2": [
           "I420M"
         ]
       }
     },
-    "NODE_0000180": {
+    "NODE_0000176": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000181": {
+    "NODE_0000177": {
       "aa_muts": {
         "LASVsSgp2": [
           "D421E",
@@ -6082,23 +6057,46 @@
         ]
       }
     },
-    "NODE_0000182": {
+    "NODE_0000178": {
       "aa_muts": {
         "LASVsSgp2": [
           "V458I"
         ]
       }
     },
-    "NODE_0000183": {
+    "NODE_0000179": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000184": {
+    "NODE_0000180": {
       "aa_muts": {
         "LASVsSgp2": [
           "V458I"
         ]
+      }
+    },
+    "NODE_0000181": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000182": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000183": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "A25T",
+          "V485I"
+        ]
+      }
+    },
+    "NODE_0000184": {
+      "aa_muts": {
+        "LASVsSgp2": []
       }
     },
     "NODE_0000185": {
@@ -6113,30 +6111,29 @@
     },
     "NODE_0000187": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "A25T",
-          "V485I"
-        ]
-      }
-    },
-    "NODE_0000188": {
-      "aa_muts": {
         "LASVsSgp2": []
       }
     },
     "NODE_0000189": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "I5V"
+        ]
       }
     },
     "NODE_0000190": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "V458I"
+        ]
       }
     },
     "NODE_0000191": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "L28I",
+          "N114S"
+        ]
       }
     },
     "NODE_0000192": {
@@ -6146,36 +6143,46 @@
     },
     "NODE_0000193": {
       "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000194": {
+      "aa_muts": {
         "LASVsSgp2": [
           "M420I"
         ]
       }
     },
-    "NODE_0000194": {
+    "NODE_0000195": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000195": {
+    "NODE_0000196": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000197": {
       "aa_muts": {
         "LASVsSgp2": [
           "V458I"
         ]
       }
     },
-    "NODE_0000196": {
+    "NODE_0000198": {
       "aa_muts": {
         "LASVsSgp2": [
           "I420M"
         ]
       }
     },
-    "NODE_0000197": {
+    "NODE_0000199": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000198": {
+    "NODE_0000200": {
       "aa_muts": {
         "LASVsSgp2": [
           "R324S",
@@ -6183,21 +6190,21 @@
         ]
       }
     },
-    "NODE_0000199": {
+    "NODE_0000201": {
       "aa_muts": {
         "LASVsSgp2": [
           "S209N"
         ]
       }
     },
-    "NODE_0000200": {
+    "NODE_0000202": {
       "aa_muts": {
         "LASVsSgp2": [
           "T171A"
         ]
       }
     },
-    "NODE_0000201": {
+    "NODE_0000203": {
       "aa_muts": {
         "LASVsSgp2": [
           "N114D",
@@ -6208,7 +6215,7 @@
         ]
       }
     },
-    "NODE_0000202": {
+    "NODE_0000204": {
       "aa_muts": {
         "LASVsSgp2": [
           "H92Y",
@@ -6216,21 +6223,9 @@
         ]
       }
     },
-    "NODE_0000203": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000204": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
     "NODE_0000205": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "A171T"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000206": {
@@ -6240,7 +6235,9 @@
     },
     "NODE_0000207": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "A171T"
+        ]
       }
     },
     "NODE_0000208": {
@@ -6253,12 +6250,7 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000211": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000212": {
+    "NODE_0000210": {
       "aa_muts": {
         "LASVsSgp2": []
       }
@@ -6275,10 +6267,7 @@
     },
     "NODE_0000215": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "Q218R",
-          "R384K"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000216": {
@@ -6289,7 +6278,8 @@
     "NODE_0000217": {
       "aa_muts": {
         "LASVsSgp2": [
-          "K379R"
+          "Q218R",
+          "R384K"
         ]
       }
     },
@@ -6300,12 +6290,9 @@
     },
     "NODE_0000219": {
       "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000220": {
-      "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "K379R"
+        ]
       }
     },
     "NODE_0000221": {
@@ -6328,12 +6315,22 @@
         "LASVsSgp2": []
       }
     },
+    "NODE_0000225": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
     "NODE_0000226": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
     "NODE_0000227": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000228": {
       "aa_muts": {
         "LASVsSgp2": []
       }
@@ -6345,23 +6342,6 @@
     },
     "NODE_0000230": {
       "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000231": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "N114G"
-        ]
-      }
-    },
-    "NODE_0000233": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000234": {
-      "aa_muts": {
         "LASVsSgp2": [
           "M96R",
           "N114D",
@@ -6372,9 +6352,26 @@
         ]
       }
     },
-    "NODE_0000235": {
+    "NODE_0000231": {
       "aa_muts": {
         "LASVsSgp2": []
+      }
+    },
+    "NODE_0000233": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000234": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000235": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "N114G"
+        ]
       }
     },
     "NODE_0000236": {
@@ -6385,19 +6382,11 @@
     "NODE_0000237": {
       "aa_muts": {
         "LASVsSgp2": [
-          "A39V",
-          "V174I"
-        ]
-      }
-    },
-    "NODE_0000239": {
-      "aa_muts": {
-        "LASVsSgp2": [
           "K207R"
         ]
       }
     },
-    "NODE_0000240": {
+    "NODE_0000238": {
       "aa_muts": {
         "LASVsSgp2": [
           "A76T",
@@ -6408,14 +6397,17 @@
         ]
       }
     },
-    "NODE_0000242": {
+    "NODE_0000241": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000243": {
+    "NODE_0000242": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "A39V",
+          "V174I"
+        ]
       }
     },
     "NODE_0000244": {
@@ -6426,17 +6418,13 @@
     "NODE_0000245": {
       "aa_muts": {
         "LASVsSgp2": [
-          "R324M",
-          "L414M"
+          "V458I"
         ]
       }
     },
     "NODE_0000246": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "I420L",
-          "V458I"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000247": {
@@ -6456,16 +6444,22 @@
     },
     "NODE_0000250": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "K379R"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000251": {
       "aa_muts": {
         "LASVsSgp2": [
-          "T59I",
-          "T225I"
+          "R324M",
+          "L414M"
+        ]
+      }
+    },
+    "NODE_0000252": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "I420L",
+          "V458I"
         ]
       }
     },
@@ -6476,9 +6470,7 @@
     },
     "NODE_0000254": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "V458I"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000255": {
@@ -6488,12 +6480,17 @@
     },
     "NODE_0000256": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "K379R"
+        ]
       }
     },
     "NODE_0000257": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "T59I",
+          "T225I"
+        ]
       }
     },
     "NODE_0000258": {
@@ -6733,11 +6730,16 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000295": {
+    "NODE_0000293": {
       "aa_muts": {
         "LASVsSgp2": [
           "T171A"
         ]
+      }
+    },
+    "NODE_0000294": {
+      "aa_muts": {
+        "LASVsSgp2": []
       }
     },
     "NODE_0000296": {
@@ -7217,11 +7219,6 @@
         ]
       }
     },
-    "NODE_0000372": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
     "NODE_0000373": {
       "aa_muts": {
         "LASVsSgp2": []
@@ -7289,14 +7286,11 @@
         ]
       }
     },
-    "NODE_0000385": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
     "NODE_0000386": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "I458V"
+        ]
       }
     },
     "NODE_0000387": {
@@ -7307,16 +7301,17 @@
     "NODE_0000388": {
       "aa_muts": {
         "LASVsSgp2": [
-          "K207R",
-          "S209N",
-          "I239M"
+          "I183V",
+          "N272K",
+          "M420I"
         ]
       }
     },
     "NODE_0000389": {
       "aa_muts": {
         "LASVsSgp2": [
-          "T171A"
+          "S77N",
+          "T171S"
         ]
       }
     },
@@ -7327,43 +7322,32 @@
     },
     "NODE_0000391": {
       "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000392": {
-      "aa_muts": {
         "LASVsSgp2": [
-          "M420I"
+          "T87S",
+          "M214V",
+          "K272R",
+          "K379R"
         ]
-      }
-    },
-    "NODE_0000393": {
-      "aa_muts": {
-        "LASVsSgp2": []
       }
     },
     "NODE_0000394": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "I458V",
-          "V459I"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000395": {
       "aa_muts": {
         "LASVsSgp2": [
-          "I183V",
-          "N272K",
-          "M420I"
+          "K207R",
+          "S209N",
+          "I239M"
         ]
       }
     },
     "NODE_0000396": {
       "aa_muts": {
         "LASVsSgp2": [
-          "S77N",
-          "T171S"
+          "T171A"
         ]
       }
     },
@@ -7374,17 +7358,14 @@
     },
     "NODE_0000398": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "T87S",
-          "M214V",
-          "K272R",
-          "K379R"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000399": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "M420I"
+        ]
       }
     },
     "NODE_0000400": {
@@ -7397,32 +7378,42 @@
         "LASVsSgp2": [
           "I47V",
           "N77S",
-          "N209S",
-          "A274T",
           "K324R"
         ]
       }
     },
     "NODE_0000402": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "N209S",
+          "A274T",
+          "V459I"
+        ]
       }
     },
     "NODE_0000403": {
       "aa_muts": {
         "LASVsSgp2": [
-          "D74N",
-          "H398Q",
-          "L414M"
+          "I298V"
         ]
       }
     },
     "NODE_0000404": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "H398Q",
+          "L414M"
+        ]
       }
     },
     "NODE_0000405": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "D74N"
+        ]
+      }
+    },
+    "NODE_0000406": {
       "aa_muts": {
         "LASVsSgp2": [
           "A76Q",
@@ -7433,7 +7424,7 @@
         ]
       }
     },
-    "NODE_0000406": {
+    "NODE_0000407": {
       "aa_muts": {
         "LASVsSgp2": [
           "I4V",
@@ -7443,18 +7434,19 @@
         ]
       }
     },
-    "NODE_0000407": {
+    "NODE_0000408": {
       "aa_muts": {
         "LASVsSgp2": [
           "V174G"
         ]
       }
     },
-    "NODE_0000408": {
+    "NODE_0000409": {
       "aa_muts": {
         "LASVsSgp2": [
           "F44L",
           "T59A",
+          "D74N",
           "K207R",
           "K368R",
           "K379V",
@@ -7462,14 +7454,12 @@
         ]
       }
     },
-    "NODE_0000409": {
+    "NODE_0000410": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "N74D"
-        ]
+        "LASVsSgp2": []
       }
     },
-    "NODE_0000410": {
+    "NODE_0000411": {
       "aa_muts": {
         "LASVsSgp2": [
           "I31M",
@@ -7486,36 +7476,22 @@
         ]
       }
     },
-    "NODE_0000411": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
     "NODE_0000412": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000415": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "K178N"
-        ]
-      }
-    },
     "NODE_0000416": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "N90S",
-          "T171A",
-          "V388I"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000417": {
       "aa_muts": {
         "LASVsSgp2": [
-          "V298I",
+          "N90S",
+          "T171A",
+          "V388I",
           "K461R"
         ]
       }
@@ -7523,30 +7499,11 @@
     "NODE_0000418": {
       "aa_muts": {
         "LASVsSgp2": [
-          "R384K"
-        ]
-      }
-    },
-    "NODE_0000419": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "V11I"
-        ]
-      }
-    },
-    "NODE_0000420": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000421": {
-      "aa_muts": {
-        "LASVsSgp2": [
           "K379R"
         ]
       }
     },
-    "NODE_0000422": {
+    "NODE_0000419": {
       "aa_muts": {
         "LASVsSgp2": [
           "I35V",
@@ -7558,21 +7515,41 @@
         ]
       }
     },
-    "NODE_0000423": {
+    "NODE_0000420": {
       "aa_muts": {
         "LASVsSgp2": [
           "K324E"
         ]
       }
     },
-    "NODE_0000424": {
+    "NODE_0000421": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000425": {
+    "NODE_0000422": {
       "aa_muts": {
         "LASVsSgp2": []
+      }
+    },
+    "NODE_0000423": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000424": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "K324R",
+          "R461K"
+        ]
+      }
+    },
+    "NODE_0000425": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "R384K"
+        ]
       }
     },
     "NODE_0000426": {
@@ -7583,8 +7560,7 @@
     "NODE_0000427": {
       "aa_muts": {
         "LASVsSgp2": [
-          "K324R",
-          "R461K"
+          "V11I"
         ]
       }
     },
@@ -7615,15 +7591,17 @@
     "NODE_0000432": {
       "aa_muts": {
         "LASVsSgp2": [
-          "K324R",
-          "A328T",
-          "K379R"
+          "K384R"
         ]
       }
     },
     "NODE_0000433": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "K324R",
+          "A328T",
+          "K379R"
+        ]
       }
     },
     "NODE_0000434": {
@@ -7632,10 +7610,15 @@
           "V38I",
           "S90N",
           "A171S",
-          "V174I",
           "N178G",
-          "R384K",
           "I388V"
+        ]
+      }
+    },
+    "NODE_0000435": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "V174I"
         ]
       }
     },
@@ -7651,6 +7634,11 @@
     },
     "NODE_0000438": {
       "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000439": {
+      "aa_muts": {
         "LASVsSgp2": [
           "N90T",
           "G178S",
@@ -7658,16 +7646,11 @@
         ]
       }
     },
-    "NODE_0000439": {
+    "NODE_0000440": {
       "aa_muts": {
         "LASVsSgp2": [
           "R461K"
         ]
-      }
-    },
-    "NODE_0000440": {
-      "aa_muts": {
-        "LASVsSgp2": []
       }
     },
     "NODE_0000441": {
@@ -7685,12 +7668,42 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000450": {
+    "NODE_0000444": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000445": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000446": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000447": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000448": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000449": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
     "NODE_0000451": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000452": {
       "aa_muts": {
         "LASVsSgp2": [
           "V11I",
@@ -7707,24 +7720,19 @@
         ]
       }
     },
-    "NODE_0000452": {
+    "NODE_0000453": {
       "aa_muts": {
         "LASVsSgp2": [
           "K324R"
         ]
       }
     },
-    "NODE_0000453": {
+    "NODE_0000454": {
       "aa_muts": {
         "LASVsSgp2": [
           "I35A",
           "A132T"
         ]
-      }
-    },
-    "NODE_0000454": {
-      "aa_muts": {
-        "LASVsSgp2": []
       }
     },
     "NODE_0000455": {
@@ -7803,6 +7811,7 @@
       "aa_muts": {
         "LASVsSgp2": [
           "V183I",
+          "K384R",
           "M414L",
           "Q482H"
         ]
@@ -7812,22 +7821,20 @@
       "aa_muts": {
         "LASVsSgp2": [
           "V5I",
-          "I43L",
+          "L35I",
           "I44F",
           "V47I",
           "T48S",
-          "F51L",
           "I61T",
-          "G65V",
           "N74D",
           "E76A",
           "T77N",
           "R96M",
-          "G174V",
           "T274A",
+          "V298I",
           "Q324K",
           "A328T",
-          "S376V",
+          "T376V",
           "R379K",
           "R488K"
         ]
@@ -7838,10 +7845,8 @@
         "LASVsSgp2": [
           "T171S",
           "E273D",
-          "V298I",
           "H374N",
           "T380S",
-          "R384K",
           "V459T"
         ]
       }
@@ -7852,7 +7857,7 @@
           "I31V",
           "T61L",
           "V174G",
-          "K178R"
+          "N178R"
         ]
       }
     },
@@ -7890,30 +7895,16 @@
     "NODE_0000474": {
       "aa_muts": {
         "LASVsSgp2": [
-          "A132T",
-          "K178N"
+          "A132T"
         ]
       }
     },
     "NODE_0000475": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "I221V",
-          "K451R"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000476": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000477": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000478": {
       "aa_muts": {
         "LASVsSgp2": [
           "L51F",
@@ -7923,33 +7914,50 @@
         ]
       }
     },
-    "NODE_0000479": {
+    "NODE_0000477": {
       "aa_muts": {
         "LASVsSgp2": [
-          "M35I"
+          "K451R"
         ]
+      }
+    },
+    "NODE_0000478": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "I221V"
+        ]
+      }
+    },
+    "NODE_0000479": {
+      "aa_muts": {
+        "LASVsSgp2": []
       }
     },
     "NODE_0000480": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "L43I",
+          "V65G",
+          "T171S",
+          "V174G"
+        ]
       }
     },
     "NODE_0000481": {
       "aa_muts": {
         "LASVsSgp2": [
           "V38F",
-          "F51L",
           "G65Q",
           "T77S",
           "V97A",
           "E100D",
           "A132T",
-          "T171S",
           "I201L",
+          "L244F",
           "R248K",
           "N272H",
           "E273D",
+          "K384R",
           "V388I"
         ]
       }
@@ -7957,19 +7965,10 @@
     "NODE_0000482": {
       "aa_muts": {
         "LASVsSgp2": [
-          "I35V",
+          "L51F",
           "T59L",
-          "G65S",
-          "K126R",
-          "I137L",
-          "T171A",
-          "K178E",
-          "K207R",
-          "A328S",
-          "T377S",
-          "R384K",
+          "N178K",
           "M420I",
-          "V450I",
           "V487T"
         ]
       }
@@ -7978,43 +7977,114 @@
       "aa_muts": {
         "LASVsSgp2": [
           "V5I",
+          "V38I",
+          "T48A",
+          "R55K",
+          "-60T",
+          "I61L",
+          "Y62-",
           "N90S",
-          "G174V",
-          "I358M"
+          "K178E",
+          "S199R",
+          "Q324R",
+          "T376S",
+          "T377S",
+          "V388I",
+          "H398Q",
+          "D421E",
+          "L433I",
+          "V435I",
+          "V450I",
+          "I474V",
+          "Q482H",
+          "R488K"
         ]
       }
     },
     "NODE_0000484": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "L35V",
+          "K125R",
+          "S171A",
+          "T376S",
+          "T377S"
+        ]
+      }
+    },
+    "NODE_0000485": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "L28I",
+          "G45S",
+          "T48A",
+          "E100D",
+          "H131R",
+          "S138T",
+          "N146H",
+          "A173S",
+          "I201L",
+          "S267A",
+          "N272K",
+          "T281V",
+          "A288S",
+          "Q324K",
+          "K327R",
+          "H398K",
+          "D402E",
+          "E404D"
+        ]
       }
     },
     "NODE_0000486": {
       "aa_muts": {
         "LASVsSgp2": [
-          "K125R",
-          "E178G"
+          "G65S",
+          "K126R",
+          "I137L",
+          "K178E",
+          "K207R",
+          "A328S",
+          "V450I"
         ]
       }
     },
     "NODE_0000487": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "V5I",
+          "N90S",
+          "R125K",
+          "G174V",
+          "I358M"
+        ]
       }
     },
-    "NODE_0000488": {
+    "NODE_0000490": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "E178G"
+        ]
+      }
+    },
+    "NODE_0000491": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000489": {
+    "NODE_0000492": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000493": {
       "aa_muts": {
         "LASVsSgp2": [
           "I43V"
         ]
       }
     },
-    "NODE_0000490": {
+    "NODE_0000494": {
       "aa_muts": {
         "LASVsSgp2": [
           "R125K",
@@ -8024,14 +8094,14 @@
         ]
       }
     },
-    "NODE_0000491": {
+    "NODE_0000495": {
       "aa_muts": {
         "LASVsSgp2": [
           "G178S"
         ]
       }
     },
-    "NODE_0000492": {
+    "NODE_0000496": {
       "aa_muts": {
         "LASVsSgp2": [
           "S65N",
@@ -8039,14 +8109,14 @@
         ]
       }
     },
-    "NODE_0000493": {
+    "NODE_0000497": {
       "aa_muts": {
         "LASVsSgp2": [
           "R207K"
         ]
       }
     },
-    "NODE_0000494": {
+    "NODE_0000498": {
       "aa_muts": {
         "LASVsSgp2": [
           "V43M",
@@ -8056,86 +8126,10 @@
         ]
       }
     },
-    "NODE_0000495": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "I28L"
-        ]
-      }
-    },
-    "NODE_0000496": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "V5I",
-          "M35L",
-          "V38I",
-          "T48A",
-          "R55K",
-          "T59L",
-          "-60T",
-          "I61L",
-          "Y62-",
-          "N90S",
-          "T171S",
-          "K178E",
-          "S199R",
-          "Q324R",
-          "T377S",
-          "R384K",
-          "V388I",
-          "H398Q",
-          "M420I",
-          "D421E",
-          "L433I",
-          "V435I",
-          "V450I",
-          "I474V",
-          "Q482H",
-          "V487T",
-          "R488K"
-        ]
-      }
-    },
-    "NODE_0000497": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000498": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "M35V",
-          "G45S",
-          "T48A",
-          "T59L",
-          "E100D",
-          "K125R",
-          "H131R",
-          "S138T",
-          "N146H",
-          "T171A",
-          "A173S",
-          "I201L",
-          "S267A",
-          "N272K",
-          "T281V",
-          "A288S",
-          "Q324K",
-          "K327R",
-          "T377S",
-          "H398K",
-          "D402E",
-          "E404D",
-          "M420I"
-        ]
-      }
-    },
     "NODE_0000499": {
       "aa_muts": {
         "LASVsSgp2": [
-          "M35L",
-          "I43L",
-          "K178N",
+          "T171S",
           "K207R"
         ]
       }
@@ -8143,20 +8137,26 @@
     "NODE_0000500": {
       "aa_muts": {
         "LASVsSgp2": [
-          "F51L",
-          "C53S",
-          "T59M",
-          "G65V",
-          "I113L",
-          "S163T",
-          "T171S",
-          "G174V",
-          "Q324R",
-          "M420I"
+          "A132T"
         ]
       }
     },
     "NODE_0000501": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "L28I",
+          "C53S",
+          "T59M",
+          "I113L",
+          "S163T",
+          "Q324R",
+          "T376S",
+          "K384R",
+          "M420I"
+        ]
+      }
+    },
+    "NODE_0000502": {
       "aa_muts": {
         "LASVsSgp2": [
           "I112L",
@@ -8164,7 +8164,7 @@
         ]
       }
     },
-    "NODE_0000502": {
+    "NODE_0000503": {
       "aa_muts": {
         "LASVsSgp2": [
           "I28V",
@@ -8173,6 +8173,7 @@
           "E100D",
           "T110N",
           "S111T",
+          "T132A",
           "G206R",
           "R207H",
           "R379K",
@@ -8180,7 +8181,7 @@
         ]
       }
     },
-    "NODE_0000503": {
+    "NODE_0000504": {
       "aa_muts": {
         "LASVsSgp2": [
           "N90T",
@@ -8189,22 +8190,21 @@
         ]
       }
     },
-    "NODE_0000504": {
+    "NODE_0000505": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000505": {
+    "NODE_0000506": {
       "aa_muts": {
         "LASVsSgp2": [
           "R96M"
         ]
       }
     },
-    "NODE_0000506": {
+    "NODE_0000507": {
       "aa_muts": {
         "LASVsSgp2": [
-          "A132T",
           "S171T",
           "A177V",
           "V183L",
@@ -8216,7 +8216,7 @@
         ]
       }
     },
-    "NODE_0000507": {
+    "NODE_0000508": {
       "aa_muts": {
         "LASVsSgp2": [
           "V38I",
@@ -8227,24 +8227,18 @@
         ]
       }
     },
-    "NODE_0000508": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "A132T",
-          "V174I"
-        ]
-      }
-    },
     "NODE_0000509": {
       "aa_muts": {
         "LASVsSgp2": [
-          "R384K"
+          "V174I"
         ]
       }
     },
     "NODE_0000510": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "R384K"
+        ]
       }
     },
     "NODE_0000511": {
@@ -8252,13 +8246,12 @@
         "LASVsSgp2": [
           "V18I",
           "A25T",
-          "I28L",
-          "L35M",
+          "L35I",
           "V38F",
           "V47I",
-          "G65S",
+          "L51F",
+          "V65S",
           "E67Q",
-          "N178K",
           "N272K",
           "M420I",
           "P462S"
@@ -8268,28 +8261,39 @@
     "NODE_0000512": {
       "aa_muts": {
         "LASVsSgp2": [
-          "M35V",
-          "T59M",
-          "Q69E",
-          "A132S",
-          "V164I"
+          "S171T",
+          "V174G",
+          "N178K"
         ]
       }
     },
     "NODE_0000513": {
       "aa_muts": {
         "LASVsSgp2": [
-          "T171A",
-          "A328T"
+          "I35V",
+          "T59M",
+          "Q69E",
+          "T132S",
+          "V164I",
+          "K384R"
         ]
       }
     },
     "NODE_0000514": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "T171A",
+          "A328T",
+          "T376S"
+        ]
       }
     },
     "NODE_0000515": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000516": {
       "aa_muts": {
         "LASVsSgp2": [
           "M59A",
@@ -8298,7 +8302,7 @@
         ]
       }
     },
-    "NODE_0000516": {
+    "NODE_0000517": {
       "aa_muts": {
         "LASVsSgp2": [
           "V35L",
@@ -8307,59 +8311,107 @@
         ]
       }
     },
-    "NODE_0000517": {
+    "NODE_0000518": {
       "aa_muts": {
         "LASVsSgp2": [
           "A171T"
         ]
       }
     },
-    "NODE_0000518": {
+    "NODE_0000519": {
       "aa_muts": {
         "LASVsSgp2": [
           "N114G"
         ]
       }
     },
-    "NODE_0000519": {
+    "NODE_0000520": {
       "aa_muts": {
         "LASVsSgp2": [
           "F38L",
           "I61T",
+          "N90T",
           "I137V",
           "V183L",
-          "V187I",
-          "N209G",
           "D251E",
           "K272N",
-          "T274A",
-          "S376T",
-          "P486S"
-        ]
-      }
-    },
-    "NODE_0000520": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "S216N",
-          "A328T"
+          "T274A"
         ]
       }
     },
     "NODE_0000521": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "T171A",
+          "E228D"
+        ]
       }
     },
     "NODE_0000522": {
       "aa_muts": {
         "LASVsSgp2": [
-          "K126R",
-          "I252V"
+          "A328T"
         ]
       }
     },
     "NODE_0000523": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "D228E"
+        ]
+      }
+    },
+    "NODE_0000524": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000525": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "V187I",
+          "N209S",
+          "P486S"
+        ]
+      }
+    },
+    "NODE_0000526": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "S209G"
+        ]
+      }
+    },
+    "NODE_0000527": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "S216N"
+        ]
+      }
+    },
+    "NODE_0000528": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "A328T"
+        ]
+      }
+    },
+    "NODE_0000529": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "K126R"
+        ]
+      }
+    },
+    "NODE_0000530": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "T90N",
+          "I252V"
+        ]
+      }
+    },
+    "NODE_0000531": {
       "aa_muts": {
         "LASVsSgp2": [
           "F51L",
@@ -8367,7 +8419,7 @@
         ]
       }
     },
-    "NODE_0000524": {
+    "NODE_0000532": {
       "aa_muts": {
         "LASVsSgp2": [
           "S65N",
@@ -8382,79 +8434,16 @@
         ]
       }
     },
-    "NODE_0000525": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "N90T",
-          "V137I"
-        ]
-      }
-    },
-    "NODE_0000526": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "G209S"
-        ]
-      }
-    },
-    "NODE_0000527": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "S486P"
-        ]
-      }
-    },
-    "NODE_0000528": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "I137V",
-          "T171A",
-          "I187V",
-          "S209N",
-          "E228D"
-        ]
-      }
-    },
-    "NODE_0000529": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "A328T"
-        ]
-      }
-    },
-    "NODE_0000530": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "D228E"
-        ]
-      }
-    },
-    "NODE_0000531": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000532": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "M35I",
-          "R384K"
-        ]
-      }
-    },
     "NODE_0000533": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "T171S"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000534": {
       "aa_muts": {
         "LASVsSgp2": [
           "N90S",
-          "G174V",
-          "K178N"
+          "T376S"
         ]
       }
     },
@@ -8462,14 +8451,15 @@
       "aa_muts": {
         "LASVsSgp2": [
           "G98S",
-          "A132T",
           "R488K"
         ]
       }
     },
     "NODE_0000536": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "T132A"
+        ]
       }
     },
     "NODE_0000537": {
@@ -8503,9 +8493,8 @@
       "aa_muts": {
         "LASVsSgp2": [
           "I31V",
-          "K178R",
+          "N178S",
           "A328T",
-          "S376T",
           "V450I"
         ]
       }
@@ -8513,6 +8502,7 @@
     "NODE_0000541": {
       "aa_muts": {
         "LASVsSgp2": [
+          "S178R",
           "R207K",
           "R379K"
         ]
@@ -8538,6 +8528,8 @@
         "LASVsSgp2": [
           "T70K",
           "N90S",
+          "T132A",
+          "V174G",
           "V183L",
           "K368Q",
           "R488K"
@@ -8551,13 +8543,15 @@
           "I15V",
           "V31I",
           "I35L",
-          "T70A"
+          "T70A",
+          "V174G"
         ]
       }
     },
     "NODE_0000547": {
       "aa_muts": {
         "LASVsSgp2": [
+          "T132A",
           "R178E",
           "T328A",
           "S389T"
@@ -8578,6 +8572,7 @@
       "aa_muts": {
         "LASVsSgp2": [
           "E100D",
+          "T132A",
           "R178E",
           "I450V"
         ]
@@ -8587,7 +8582,6 @@
       "aa_muts": {
         "LASVsSgp2": [
           "K126R",
-          "A132T",
           "R488K"
         ]
       }
@@ -8634,12 +8628,10 @@
     "NODE_0000558": {
       "aa_muts": {
         "LASVsSgp2": [
+          "L28I",
           "I31V",
-          "F51L",
           "-60X",
           "I61L",
-          "G65V",
-          "S376A",
           "D421E"
         ]
       }
@@ -8653,12 +8645,11 @@
           "T70S",
           "E72D",
           "I112M",
-          "T171S",
           "R207H",
           "E273A",
           "Q324S",
           "A328S",
-          "A376V"
+          "T376I"
         ]
       }
     },
@@ -8666,7 +8657,7 @@
       "aa_muts": {
         "LASVsSgp2": [
           "M112L",
-          "R384K",
+          "I376V",
           "R488K"
         ]
       }
@@ -8677,6 +8668,7 @@
           "L50F",
           "I113L",
           "S163T",
+          "V174G",
           "N178K",
           "V183I",
           "K327R",
@@ -8696,8 +8688,7 @@
     "NODE_0000563": {
       "aa_muts": {
         "LASVsSgp2": [
-          "S171A",
-          "G174V"
+          "S171A"
         ]
       }
     },
@@ -8737,8 +8728,8 @@
           "V97A",
           "M112I",
           "A132T",
-          "V376I",
-          "R379K"
+          "R379K",
+          "K384R"
         ]
       }
     },
@@ -8747,6 +8738,7 @@
         "LASVsSgp2": [
           "N114S",
           "A152R",
+          "V174G",
           "H207R",
           "I376L"
         ]
@@ -8760,7 +8752,7 @@
     "NODE_0000571": {
       "aa_muts": {
         "LASVsSgp2": [
-          "G174I",
+          "V174I",
           "T274A"
         ]
       }
@@ -8803,7 +8795,6 @@
           "S58T",
           "X60T",
           "R96M",
-          "T171S",
           "N209G",
           "N272K",
           "E273D"
@@ -8814,8 +8805,10 @@
       "aa_muts": {
         "LASVsSgp2": [
           "L43I",
+          "V174G",
           "N178T",
-          "A376G",
+          "T376G",
+          "K384R",
           "V459K"
         ]
       }
@@ -8839,15 +8832,15 @@
     "NODE_0000580": {
       "aa_muts": {
         "LASVsSgp2": [
-          "I4V",
-          "V5I"
+          "V5I",
+          "A132T"
         ]
       }
     },
     "NODE_0000581": {
       "aa_muts": {
         "LASVsSgp2": [
-          "A132T"
+          "I4V"
         ]
       }
     },
@@ -8858,14 +8851,14 @@
     },
     "NODE_0000583": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "A328T"
+        ]
       }
     },
     "NODE_0000584": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "A328T"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000585": {
@@ -8943,10 +8936,7 @@
     },
     "NODE_0000595": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "G174V",
-          "R384K"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000596": {
@@ -8955,7 +8945,7 @@
           "V47I",
           "T48A",
           "T70A",
-          "A376I",
+          "T376I",
           "M420I",
           "V450I",
           "I474V"
@@ -8990,7 +8980,7 @@
           "L51F",
           "G209N",
           "I221V",
-          "A376V",
+          "T376V",
           "L479V"
         ]
       }
@@ -9027,112 +9017,20 @@
     "NODE_0000605": {
       "aa_muts": {
         "LASVsSgp2": [
-          "A376V"
+          "T70A",
+          "T376I",
+          "I458V"
         ]
       }
     },
     "NODE_0000606": {
       "aa_muts": {
         "LASVsSgp2": [
-          "T70A",
-          "I458V"
-        ]
-      }
-    },
-    "NODE_0000607": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000608": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000609": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "S171T",
-          "V174G",
-          "L479F"
-        ]
-      }
-    },
-    "NODE_0000610": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000611": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000612": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "M96R",
-          "I112L",
-          "G159D",
-          "A176T"
-        ]
-      }
-    },
-    "NODE_0000613": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "I28V",
-          "T171A"
-        ]
-      }
-    },
-    "NODE_0000614": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "V376I"
-        ]
-      }
-    },
-    "NODE_0000615": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "V47I",
-          "S171G",
-          "G209N"
-        ]
-      }
-    },
-    "NODE_0000616": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "V65A",
-          "A70T"
-        ]
-      }
-    },
-    "NODE_0000617": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "V174I",
-          "A328I"
-        ]
-      }
-    },
-    "NODE_0000618": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "K481R"
-        ]
-      }
-    },
-    "NODE_0000619": {
-      "aa_muts": {
-        "LASVsSgp2": [
           "V174G"
         ]
       }
     },
-    "NODE_0000620": {
+    "NODE_0000607": {
       "aa_muts": {
         "LASVsSgp2": [
           "E76G",
@@ -9144,7 +9042,7 @@
         ]
       }
     },
-    "NODE_0000621": {
+    "NODE_0000608": {
       "aa_muts": {
         "LASVsSgp2": [
           "S171T",
@@ -9153,12 +9051,12 @@
         ]
       }
     },
-    "NODE_0000622": {
+    "NODE_0000609": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000623": {
+    "NODE_0000610": {
       "aa_muts": {
         "LASVsSgp2": [
           "A39T",
@@ -9167,11 +9065,101 @@
         ]
       }
     },
-    "NODE_0000624": {
+    "NODE_0000611": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000612": {
       "aa_muts": {
         "LASVsSgp2": [
-          "A376T"
+          "V47I",
+          "S171G",
+          "G209N"
         ]
+      }
+    },
+    "NODE_0000613": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "V65A",
+          "A70T"
+        ]
+      }
+    },
+    "NODE_0000614": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "V174I",
+          "A328I"
+        ]
+      }
+    },
+    "NODE_0000615": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "K481R"
+        ]
+      }
+    },
+    "NODE_0000616": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "I376V"
+        ]
+      }
+    },
+    "NODE_0000617": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000618": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "L479F"
+        ]
+      }
+    },
+    "NODE_0000619": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "S171T",
+          "V174G"
+        ]
+      }
+    },
+    "NODE_0000620": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000621": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000622": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "M96R",
+          "I112L",
+          "G159D",
+          "A176T"
+        ]
+      }
+    },
+    "NODE_0000623": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "I28V",
+          "T171A"
+        ]
+      }
+    },
+    "NODE_0000624": {
+      "aa_muts": {
+        "LASVsSgp2": []
       }
     },
     "NODE_0000625": {
@@ -9196,11 +9184,6 @@
     },
     "NODE_0000628": {
       "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000629": {
-      "aa_muts": {
         "LASVsSgp2": [
           "T70A",
           "N114D",
@@ -9211,7 +9194,7 @@
         ]
       }
     },
-    "NODE_0000630": {
+    "NODE_0000629": {
       "aa_muts": {
         "LASVsSgp2": [
           "M96R",
@@ -9219,7 +9202,7 @@
         ]
       }
     },
-    "NODE_0000631": {
+    "NODE_0000630": {
       "aa_muts": {
         "LASVsSgp2": [
           "E228D",
@@ -9227,53 +9210,24 @@
         ]
       }
     },
+    "NODE_0000631": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
     "NODE_0000632": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "I28L",
-          "T60N",
-          "A132T",
-          "G209N",
-          "K272N"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000633": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "V174E"
+        ]
       }
     },
     "NODE_0000634": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000635": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000636": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000637": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000638": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000639": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000640": {
       "aa_muts": {
         "LASVsSgp2": [
           "A25T",
@@ -9288,7 +9242,7 @@
           "S171G",
           "Y172N",
           "A173I",
-          "V174K",
+          "E174K",
           "A177V",
           "N178S",
           "I201L",
@@ -9306,21 +9260,59 @@
         ]
       }
     },
-    "NODE_0000641": {
+    "NODE_0000635": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "K272N"
+        ]
+      }
+    },
+    "NODE_0000636": {
       "aa_muts": {
         "LASVsSgp2": [
           "K384R"
         ]
       }
     },
-    "NODE_0000642": {
+    "NODE_0000637": {
       "aa_muts": {
         "LASVsSgp2": [
           "V47I",
           "T70A",
           "T225I",
+          "N272K",
           "P462S"
         ]
+      }
+    },
+    "NODE_0000638": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "I28L",
+          "T60N",
+          "A132T",
+          "G209N"
+        ]
+      }
+    },
+    "NODE_0000639": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000640": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000641": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000642": {
+      "aa_muts": {
+        "LASVsSgp2": []
       }
     },
     "NODE_0000643": {
@@ -9330,18 +9322,14 @@
     },
     "NODE_0000644": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "A132T",
-          "K384R"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000645": {
       "aa_muts": {
         "LASVsSgp2": [
-          "V174G",
-          "G209R",
-          "P462S"
+          "A132T",
+          "K384R"
         ]
       }
     },
@@ -9351,6 +9339,9 @@
           "V38F",
           "I44V",
           "T60S",
+          "V174G",
+          "G209R",
+          "P462S",
           "R488K"
         ]
       }
@@ -9503,13 +9494,17 @@
     },
     "NODE_0000670": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "R207H",
+          "K488R"
+        ]
       }
     },
     "NODE_0000671": {
       "aa_muts": {
         "LASVsSgp2": [
-          "F38L"
+          "S462P",
+          "H471Y"
         ]
       }
     },
@@ -9520,20 +9515,39 @@
     },
     "NODE_0000673": {
       "aa_muts": {
+        "LASVsSgp2": [
+          "V47L"
+        ]
+      }
+    },
+    "NODE_0000674": {
+      "aa_muts": {
         "LASVsSgp2": []
       }
     },
     "NODE_0000675": {
       "aa_muts": {
         "LASVsSgp2": [
-          "V44I",
-          "R209Q"
+          "S60G",
+          "N178D"
         ]
+      }
+    },
+    "NODE_0000676": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000677": {
+      "aa_muts": {
+        "LASVsSgp2": []
       }
     },
     "NODE_0000678": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "R209K"
+        ]
       }
     },
     "NODE_0000679": {
@@ -9543,30 +9557,22 @@
     },
     "NODE_0000680": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "V47L"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000681": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "K209N"
+        ]
       }
     },
     "NODE_0000682": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "S60G",
-          "N178D"
-        ]
-      }
-    },
-    "NODE_0000683": {
-      "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000684": {
+    "NODE_0000683": {
       "aa_muts": {
         "LASVsSgp2": [
           "R207H",
@@ -9574,24 +9580,16 @@
         ]
       }
     },
-    "NODE_0000685": {
-      "aa_muts": {
-        "LASVsSgp2": [
-          "S462P",
-          "H471Y"
-        ]
-      }
-    },
     "NODE_0000686": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "R209K"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000687": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "F38L"
+        ]
       }
     },
     "NODE_0000688": {
@@ -9601,9 +9599,7 @@
     },
     "NODE_0000689": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "K209N"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000690": {
@@ -9614,8 +9610,8 @@
     "NODE_0000691": {
       "aa_muts": {
         "LASVsSgp2": [
-          "R207H",
-          "K488R"
+          "V44I",
+          "R209Q"
         ]
       }
     },
@@ -9921,36 +9917,36 @@
     "NODE_0000738": {
       "aa_muts": {
         "LASVsSgp2": [
-          "S60N",
-          "R207H",
-          "K490R"
+          "N178D"
         ]
       }
     },
     "NODE_0000739": {
       "aa_muts": {
         "LASVsSgp2": [
-          "G208D",
-          "P486S"
+          "N114H",
+          "M214I"
         ]
       }
     },
     "NODE_0000740": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "K465R"
+        ]
       }
     },
     "NODE_0000741": {
       "aa_muts": {
-        "LASVsSgp2": []
+        "LASVsSgp2": [
+          "T110I",
+          "R209G"
+        ]
       }
     },
     "NODE_0000742": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "V44I",
-          "E67K"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000743": {
@@ -9960,49 +9956,49 @@
     },
     "NODE_0000744": {
       "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000745": {
-      "aa_muts": {
         "LASVsSgp2": [
           "T59I",
           "G208D"
         ]
       }
     },
-    "NODE_0000746": {
+    "NODE_0000745": {
       "aa_muts": {
         "LASVsSgp2": []
+      }
+    },
+    "NODE_0000746": {
+      "aa_muts": {
+        "LASVsSgp2": [
+          "S60N",
+          "R207H",
+          "K490R"
+        ]
       }
     },
     "NODE_0000747": {
       "aa_muts": {
         "LASVsSgp2": [
-          "N178D"
+          "G208D",
+          "P486S"
         ]
       }
     },
     "NODE_0000748": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "N114H",
-          "M214I"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000749": {
       "aa_muts": {
-        "LASVsSgp2": [
-          "K465R"
-        ]
+        "LASVsSgp2": []
       }
     },
     "NODE_0000750": {
       "aa_muts": {
         "LASVsSgp2": [
-          "T110I",
-          "R209G"
+          "V44I",
+          "E67K"
         ]
       }
     },
@@ -10016,87 +10012,97 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000760": {
+    "NODE_0000764": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000761": {
+    "NODE_0000768": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000802": {
+    "NODE_0000771": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000805": {
+    "NODE_0000776": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000808": {
+    "NODE_0000782": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000825": {
+    "NODE_0000784": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000829": {
+    "NODE_0000786": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000838": {
+    "NODE_0000792": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000840": {
+    "NODE_0000794": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000843": {
+    "NODE_0000795": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000854": {
+    "NODE_0000800": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000861": {
+    "NODE_0000806": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000863": {
+    "NODE_0000815": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000876": {
+    "NODE_0000818": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000879": {
+    "NODE_0000833": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000880": {
+    "NODE_0000836": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000882": {
+    "NODE_0000867": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000868": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0000872": {
       "aa_muts": {
         "LASVsSgp2": []
       }
@@ -10106,57 +10112,37 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000888": {
+    "NODE_0000900": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000895": {
+    "NODE_0000908": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000912": {
+    "NODE_0000921": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000914": {
+    "NODE_0000923": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000915": {
+    "NODE_0000924": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000933": {
+    "NODE_0000947": {
       "aa_muts": {
         "LASVsSgp2": []
       }
     },
-    "NODE_0000936": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000953": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000960": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000992": {
-      "aa_muts": {
-        "LASVsSgp2": []
-      }
-    },
-    "NODE_0000995": {
+    "NODE_0000951": {
       "aa_muts": {
         "LASVsSgp2": []
       }
@@ -10166,7 +10152,17 @@
         "LASVsSgp2": []
       }
     },
-    "NODE_0000997": {
+    "NODE_0000999": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0001000": {
+      "aa_muts": {
+        "LASVsSgp2": []
+      }
+    },
+    "NODE_0001001": {
       "aa_muts": {
         "LASVsSgp2": []
       }
@@ -10195,7 +10191,7 @@
           "M59L",
           "V65T",
           "K126R",
-          "A132S",
+          "T132S",
           "Y172F",
           "N178G",
           "V183L",
@@ -10414,11 +10410,12 @@
           "T48S",
           "T60N",
           "V65A",
+          "A70T",
           "N178T",
           "V183I",
           "K379R",
           "K417R",
-          "L479F"
+          "V458I"
         ]
       }
     },
@@ -10665,6 +10662,6 @@
     }
   },
   "reference": {
-    "LASVsSgp2": "MGQIVTFFQEVPHVIEEVMNIVLIALSILAILKGMYNVATCGIIGLVTFLFLCGRSCST-IYKGGYELQTLELNMETLNMTMPLSCTKNNSHHYIRVGNETGLELTLTNTSIINHKFCNLSDAHKKNLYDHALMSIISTFHLSIPNFNQYEAMSCDFNGGKISVQYNLSHTYAGDAAKHCGTVANGVLQTFMRMAWGGSYIALDSGKGNWDCIMTSYQYLIIQNTTWEDHCQFSRPSPIGYLGLLSQRTRDIYISRRLLGTFTWTLSDSEGNETPGGYCLTRWMLIEAELKCFGNTAVAKCNEKHDEEFCDMLRLFDFNKQAIQRLKAEAQMSIQLINKAVNALINDQLIMKNHLRDIMGIPYCNYSKYWYLNHTSTGRTSLPRCWLVSNGSYLNETHFSDDIEQQADNMITEMLQKEYMDRQGKTPLGLVDLFVFSTSFYLISIFLHLVKIPTHRHIVGKPCPKPHRLNHMGICSCGLYKQPGVPVRWKR"
+    "LASVsSgp2": "MGQIVTFFQEVPHVIEEVMNIVLIALSLLAILKGLYNVATCGLIGLVTFLLLCGRSCST-IYKGVYELQTLELNMETLNMTMPLSCTKNNSHHYIRVGNETGLELTLTNTSIINHKFCNLSDAHKKNLYDHALMSIISTFHLSIPNFNQYEAMSCDFNGGKISVQYNLSHTYAVDAANHCGTVANGVLQTFMRMAWGGSYIALDSGKGNWDCIMTSYQYLIIQNTTWEDHCQFSRPSPIGYLGLLSQRTRDIYISRRLLGTFTWTLSDSEGNETPGGYCLTRWMLIEAELKCFGNTAVAKCNEKHDEEFCDMLRLFDFNKQAIQRLKAEAQMSIQLINKAVNALINDQLIMKNHLRDIMGIPYCNYSKYWYLNHTTTGRTSLPKCWLVSNGSYLNETHFSDDIEQQADNMITEMLQKEYMDRQGKTPLGLVDLFVFSTSFYLISIFLHLVKIPTHRHIVGKPCPKPHRLNHMGICSCGLYKQPGVPVRWKR"
   }
 }

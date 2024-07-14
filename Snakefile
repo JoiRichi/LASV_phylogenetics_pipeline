@@ -52,8 +52,8 @@ rule refine:
             --coalescent {params.coalescent} \
             --date-confidence \
             --date-inference {params.date_inference} \
-            --stochastic-resolve
-            
+            --stochastic-resolve \
+            --clock-filter-iqd {params.clock_filter_iqd} 
             
         """
 #--keep-root\ --stochastic-resolve  --clock-filter-iqd {params.clock_filter_iqd} \

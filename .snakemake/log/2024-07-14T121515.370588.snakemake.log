@@ -1,0 +1,2 @@
+SyntaxError in file /Users/DaoduR-Dev/Downloads/lasv-pipeline_publication/Snakefile, line 18:
+Command must be given as string after the shell keyword. (Snakefile, line 18)
