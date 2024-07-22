@@ -48,9 +48,6 @@ Upon completion, go to the pipeline 'auspice' folder and view the final JSON fil
 ## Customization
 The pipeline config folder contains the input files for this pipeline. Learn how the data was preprocessed here: [LASV_ML_Manuscript_Data](https://github.com/JoiRichi/LASV_ML_manuscript_data). It is possible to use your own custom sequences using the same process.
 
-**Note**
-Due to the random starting points of maximum likelihood (and Bayesian methods) in the construction of phylogenetic trees, rerunning the pipeline on the same data may yield slightly varying results.
-
 
 For further details, please refer to the respective notebooks and repositories linked above.
 
